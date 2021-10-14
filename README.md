@@ -1,7 +1,7 @@
 
 ```md
-Name: Your name
-GitHub Username: Your GitHub Username
+Name: Prajwal Kale
+GitHub Username: PrajwalGKale
 Quote: Any quote!
 ```
 
